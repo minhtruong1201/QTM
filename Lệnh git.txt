@@ -1,0 +1,8 @@
+- git config --global user.name "minhtruong1201"
+- git config --global user.email tranminhtruong1201@gmail.com
+- git init
+- git remote add origin https://github.com/minhtruong1201/QTM.git
+- git remote -v
+- git add .
+- git commit -m""
+- git push origin master
